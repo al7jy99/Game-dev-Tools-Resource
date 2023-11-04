@@ -1,6 +1,6 @@
 # Tools & Resources
 
-## A list of many game jam tools and [resources](#Free-Resources).
+## A list of many game DEV tools and [resources](#Free-Resources).
 
 Tools  
 - [Tools & Resources](#tools--resources)
